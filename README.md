@@ -25,7 +25,7 @@ O objetivo do projeto é praticar **lógica de programação**, **manipulação 
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
-- Webpack (caso esteja usando)
+- Webpack
 - Modularização de código
 
 ---
